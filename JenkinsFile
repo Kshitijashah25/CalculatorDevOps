@@ -19,10 +19,9 @@ pipeline{
         }
         stage('Push Docker Image'){
             steps{
-                withDockerRegistry([credentialsId: "dockerid" , url: ""]){
+                    sh 'docker login -u kshitijashah -p kshitija@9991'
                     sh 'docker push kshitijashah/calculator:latest'
                 }
             }
         }
-    }
 }
