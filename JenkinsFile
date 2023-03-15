@@ -17,12 +17,10 @@ pipeline{
                  sh 'docker build -t kshitijashah/calculator:latest .'
              }
         }
-//         stage('Push Docker Image'){
-//             steps{
-//                 withDockerRegistry([credentialsId: "dockerid" , url: ""]){
-//                     sh 'docker push kshitijashah/calculator:latest'
-//                 }
-//             }
-//         }
+        stage('Push Docker Image'){
+                withDockerRegistry([credentialsId: "dockerid" , url: ""]){
+                    sh 'docker push kshitijashah/calculator:latest'
+            }
+        }
     }
 }
