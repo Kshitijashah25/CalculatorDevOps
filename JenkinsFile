@@ -1,0 +1,28 @@
+pipeline{
+    agent any
+    stages{
+        stage('Git Pull'){
+            steps{
+                git url: 'https://github.com/Kshitijashah25/CalculatorDevOps.git',
+                branch: 'master'
+            }
+        }
+        stage('Maven Build'){
+            steps{
+                sh 'mvn clean install'
+            }
+        }
+        stage('Build Docker Image'){
+             steps{
+                 sh 'docker build -t kshitijashah/calculator:latest .'
+             }
+        }
+//         stage('Push Docker Image'){
+//             steps{
+//                 withDockerRegistry([credentialsId: "dockerid" , url: ""]){
+//                     sh 'docker push kshitijashah/calculator:latest'
+//                 }
+//             }
+//         }
+    }
+}
