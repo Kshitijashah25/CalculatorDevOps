@@ -18,8 +18,10 @@ pipeline{
              }
         }
         stage('Push Docker Image'){
+            steps{
                 withDockerRegistry([credentialsId: "dockerid" , url: ""]){
                     sh 'docker push kshitijashah/calculator:latest'
+                }
             }
         }
     }
