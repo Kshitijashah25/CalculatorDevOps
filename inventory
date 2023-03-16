@@ -1,0 +1,2 @@
+[kshitijaGroup]
+kshitijaServer ansible_host=172.16.144.52 ansible_connection=ssh ansible_user=ansible_user ansible_sudo_pass=123
