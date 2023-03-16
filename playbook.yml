@@ -8,7 +8,7 @@
         state: started
 
     - name: pull docker image
-      shell: docker pull kshitija/calculator
+      shell: docker pull kshitijashah/calculator
 
     - name: running container
-      shell: docker create -it --name KshitijaCalc kshitija/calculator
+      shell: docker create -it --name KshitijaCalc kshitijashah/calculator

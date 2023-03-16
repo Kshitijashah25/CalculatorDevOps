@@ -25,6 +25,7 @@ pipeline{
             }
         stage('Deploy and Run Image'){
             steps{
+       //         sh 'docker login -u kshitijashah -p kshitija@9991'
                 sh 'ansible-playbook -i inventory playbook.yml'
             }
         }
