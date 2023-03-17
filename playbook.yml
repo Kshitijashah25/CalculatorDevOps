@@ -12,3 +12,7 @@
 
     - name: running container
       shell: docker create -it --name KshitijaCalc kshitijashah/calculator
+
+    - name: removing image
+      shell: docker rmi -f kshitijashah/calculator
+

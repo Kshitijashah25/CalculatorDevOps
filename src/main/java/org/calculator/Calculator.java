@@ -22,7 +22,7 @@ public class Calculator {
         double number1 = 0.0, number2 = 0.0;
         do {
             logger.info("Showing the operations to the user.");
-            System.out.println("################# CALCULATOR DEVOPS #################");
+            System.out.println("######################### CALCULATOR DEVOPS #########################");
             System.out.println("Operations:");
             System.out.println("1.Square Root");
             System.out.println("2.Factorial");

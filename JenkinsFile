@@ -17,17 +17,20 @@ pipeline{
                  sh 'docker build -t kshitijashah/calculator:latest .'
              }
         }
-        stage('Push Docker Image'){
+        stage('Docker Hub Login'){
             steps{
                     sh 'docker login -u kshitijashah -p kshitija@9991'
+                 }
+            }
+        stage('Push Docker Image'){
+            steps{
                     sh 'docker push kshitijashah/calculator:latest'
                 }
             }
         stage('Deploy and Run Image'){
             steps{
-       //         sh 'docker login -u kshitijashah -p kshitija@9991'
                 sh 'ansible-playbook -i inventory playbook.yml'
             }
         }
-        }
+    }
 }

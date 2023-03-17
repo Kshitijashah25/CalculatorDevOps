@@ -1,0 +1,8 @@
+[Time: 22:23 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 19] --> Starting the Calculator Application.
+[Time: 22:23 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 22:23 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:12
+[Time: 22:23 PM # Date: 16/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 101] --> User exiting the application.
+[Time: 22:35 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 19] --> Starting the Calculator Application.
+[Time: 22:35 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 22:35 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:45
+[Time: 22:35 PM # Date: 16/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 101] --> User exiting the application.
