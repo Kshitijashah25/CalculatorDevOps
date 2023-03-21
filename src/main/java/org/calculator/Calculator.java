@@ -10,7 +10,12 @@ public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
 
     public static void main(String[] args) {
-
+//        logger.trace("We've just greeted the user!");
+//        logger.debug("We've just greeted the user!");
+//        logger.info("We've just greeted the user!");
+//        logger.warn("We've just greeted the user!");
+//        logger.error("We've just greeted the user!");
+//        logger.fatal("We've just greeted the user!");
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
