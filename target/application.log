@@ -1,0 +1,68 @@
+[Time: 15:00 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 19] --> Starting the Calculator Application.
+[Time: 15:00 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:2
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 59] --> Using Factorial Function
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 63] --> User's input for factorial function: 6.0
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 123] --> Calculating factorial of 6.0.
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 128] --> Answer: 6.0! = 720.0.
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:28 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:15
+[Time: 15:28 PM # Date: 21/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 101] --> User exiting the application.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 19] --> Starting the Calculator Application.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:1
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 46] --> Using Square Root Function
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 50] --> User's input for square root function: 64.0
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 133] --> Calculating square root of 64.0.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 135] --> Answer: 64.0^0.5 = 8.0.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:2
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 59] --> Using Factorial Function
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 63] --> User's input for factorial function: 10.0
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 123] --> Calculating factorial of 10.0.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 128] --> Answer: 10.0! = 3628800.0.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:3
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 72] --> Using Natural Log Function
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 76] --> User's input for natural log function: 9600.0
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 116] --> Calculating log(9600.0).
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 118] --> Answer: log(9600.0) = 9.169518377455928.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:4
+[Time: 15:34 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 85] --> Using Power Function
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 89] --> User's input for number: 4.0
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 92] --> User's input for power: 6.0
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 109] --> Calculating 4.0^6.0.
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 111] --> Answer: 4.0^6.0 = 4096.0.
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:35 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:56
+[Time: 15:35 PM # Date: 21/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 101] --> User exiting the application.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 19] --> Starting the Calculator Application.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:1
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 46] --> Using Square Root Function
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 50] --> User's input for square root function: 8100.0
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 133] --> Calculating square root of 8100.0.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 135] --> Answer: 8100.0^0.5 = 90.0.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:2
+[Time: 15:36 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 59] --> Using Factorial Function
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 63] --> User's input for factorial function: 9.0
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 123] --> Calculating factorial of 9.0.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 128] --> Answer: 9.0! = 362880.0.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:3
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 72] --> Using Natural Log Function
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 76] --> User's input for natural log function: 9600.0
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 116] --> Calculating log(9600.0).
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 118] --> Answer: log(9600.0) = 9.169518377455928.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:4
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 85] --> Using Power Function
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 89] --> User's input for number: 4.0
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 92] --> User's input for power: 8.0
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 109] --> Calculating 4.0^8.0.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 111] --> Answer: 4.0^8.0 = 65536.0.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 24] --> Showing the operations to the user.
+[Time: 15:37 PM # Date: 21/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 37] --> User's choice is:45
+[Time: 15:37 PM # Date: 21/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 101] --> User exiting the application.
