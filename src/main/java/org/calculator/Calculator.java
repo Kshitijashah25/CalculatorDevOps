@@ -10,7 +10,7 @@ public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
 
     public static void main(String[] args) {
-
+//dummy comment
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
