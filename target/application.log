@@ -1,18 +1,29 @@
-2023-03-30 19:54:13.831 [main] INFO  org.calculator.Calculator - Starting the Calculator Application.
-2023-03-30 19:54:13.837 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
-2023-03-30 19:54:16.059 [main] INFO  org.calculator.Calculator - User's choice is:1
-2023-03-30 19:54:16.060 [main] INFO  org.calculator.Calculator - Using Square Root Function
-2023-03-30 19:54:18.415 [main] ERROR org.calculator.Calculator - Non-Positive number added by the user for square root function.
-2023-03-30 19:54:18.416 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
-2023-03-30 19:54:25.603 [main] INFO  org.calculator.Calculator - User's choice is:2
-2023-03-30 19:54:25.604 [main] INFO  org.calculator.Calculator - Using Factorial Function
-2023-03-30 19:54:26.616 [main] INFO  org.calculator.Calculator - User's input for factorial function: 0.0
-2023-03-30 19:54:26.617 [main] INFO  org.calculator.Calculator - Calculating factorial of 0.0.
-2023-03-30 19:54:26.634 [main] INFO  org.calculator.Calculator - Answer: 0.0! = 1.0.
-2023-03-30 19:54:26.649 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
-2023-03-30 19:54:29.990 [main] INFO  org.calculator.Calculator - User's choice is:3
-2023-03-30 19:54:29.991 [main] INFO  org.calculator.Calculator - Using Natural Log Function
-2023-03-30 19:54:32.209 [main] ERROR org.calculator.Calculator - Non-positive number entered by the user for natural log function.
-2023-03-30 19:54:32.210 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
-2023-03-30 19:54:35.220 [main] INFO  org.calculator.Calculator - User's choice is:55
-2023-03-30 19:54:35.220 [main] FATAL org.calculator.Calculator - User exiting the application.
+2023-04-02 11:33:48.347 [main] INFO  org.calculator.Calculator - Starting the Calculator Application.
+2023-04-02 11:33:48.354 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
+2023-04-02 11:33:50.621 [main] INFO  org.calculator.Calculator - User's choice is:1
+2023-04-02 11:33:50.622 [main] INFO  org.calculator.Calculator - Using Square Root Function
+2023-04-02 11:33:51.704 [main] INFO  org.calculator.Calculator - User's input for square root function: 56.0
+2023-04-02 11:33:51.707 [main] INFO  org.calculator.Calculator - Calculating square root of 56.0.
+2023-04-02 11:33:51.726 [main] INFO  org.calculator.Calculator - Answer: 56.0^0.5 = 7.483314773547883.
+2023-04-02 11:33:51.736 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
+2023-04-02 11:33:52.780 [main] INFO  org.calculator.Calculator - User's choice is:2
+2023-04-02 11:33:52.781 [main] INFO  org.calculator.Calculator - Using Factorial Function
+2023-04-02 11:33:53.876 [main] INFO  org.calculator.Calculator - User's input for factorial function: 7.0
+2023-04-02 11:33:53.878 [main] INFO  org.calculator.Calculator - Calculating factorial of 7.0.
+2023-04-02 11:33:53.880 [main] INFO  org.calculator.Calculator - Answer: 7.0! = 5040.0.
+2023-04-02 11:33:53.882 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
+2023-04-02 11:33:54.765 [main] INFO  org.calculator.Calculator - User's choice is:3
+2023-04-02 11:33:54.766 [main] INFO  org.calculator.Calculator - Using Natural Log Function
+2023-04-02 11:33:56.665 [main] INFO  org.calculator.Calculator - User's input for natural log function: 85.0
+2023-04-02 11:33:56.668 [main] INFO  org.calculator.Calculator - Calculating log(85.0).
+2023-04-02 11:33:56.670 [main] INFO  org.calculator.Calculator - Answer: log(85.0) = 4.442651256490317.
+2023-04-02 11:33:56.672 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
+2023-04-02 11:33:57.540 [main] INFO  org.calculator.Calculator - User's choice is:4
+2023-04-02 11:33:57.541 [main] INFO  org.calculator.Calculator - Using Power Function
+2023-04-02 11:33:59.010 [main] INFO  org.calculator.Calculator - User's input for number: 3.0
+2023-04-02 11:33:59.574 [main] INFO  org.calculator.Calculator - User's input for power: 9.0
+2023-04-02 11:33:59.578 [main] INFO  org.calculator.Calculator - Calculating 3.0^9.0.
+2023-04-02 11:33:59.632 [main] INFO  org.calculator.Calculator - Answer: 3.0^9.0 = 19683.0.
+2023-04-02 11:33:59.656 [main] INFO  org.calculator.Calculator - Showing the operations to the user.
+2023-04-02 11:34:01.868 [main] INFO  org.calculator.Calculator - User's choice is:75
+2023-04-02 11:34:01.871 [main] FATAL org.calculator.Calculator - User exiting the application.

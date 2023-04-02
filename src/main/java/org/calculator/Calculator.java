@@ -97,10 +97,10 @@ public class Calculator {
                         System.out.print("\nEnter the power:");
                         number2 = scanner.nextDouble();
                         logger.info("User's input for power: " + number2);
-                        if (number1 <= 0 || number2 < 0) {
-                            System.err.println("Number and Power input should be non-negative numbers.");
-                            logger.error("Negative input given by the user for power function.");
-                        }
+//                        if (number1 <= 0 || number2 < 0) {
+//                            System.err.println("Number and Power input should be non-negative numbers.");
+//                            logger.error("Negative input given by the user for power function.");
+//                        }
                         System.out.println("\n " + number1 + " power " + number2 + " is : " + calculator.power(number1, number2));
                     } catch (InputMismatchException exception) {
                         logger.error("Exception: " + exception.getLocalizedMessage() + "has occurred.");

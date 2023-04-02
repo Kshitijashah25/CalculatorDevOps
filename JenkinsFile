@@ -27,6 +27,12 @@ pipeline{
                     sh 'docker push kshitijashah/calculator:latest'
                 }
             }
+        stage('Docker Container Delete'){
+            steps{
+                sh 'docker stop KshitijaCalc || true'
+                sh 'docker rm -f KshitijaCalc || true'
+            }
+        }
         stage('Deploy and Run Image'){
             steps{
                 sh 'ansible-playbook -i inventory playbook.yml'
